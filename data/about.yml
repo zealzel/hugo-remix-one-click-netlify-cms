@@ -1,14 +1,13 @@
 en:
   title: <span>About</span>
   backgroundTitle: About
-  portText:
+  portText: null
   items:
     - icon: fa-award
-      title: Lorem ipsum dolor sit amet
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
+      title: 這是一個小屁孩的故事
+      content: 不要懷疑，參加就有獎品可拿
     - icon: fa-compass
-      title: "We are on your side."
+      title: We are on your side.
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
         libero, perspiciatis eos provident laborum eum dignissimos.
     - icon: fa-leaf
